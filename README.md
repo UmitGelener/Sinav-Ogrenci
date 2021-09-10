@@ -1,2 +1,2 @@
-# Sinav-Ogrenci
- Windows Forms App(.NET Framework) kullanarak basit bir öğrenci-ders-sınav ilişkisi
+# Ogrenci sinav ders ilişkisi
+ Windows Forms App(.NET Framework)'te dbfirst kullanarak basit bir öğrenci-ders-sınav ilişkisi
